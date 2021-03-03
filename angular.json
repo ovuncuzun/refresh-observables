@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "refresh-observables"
+  "defaultProject": "refresh-observables",
+  "cli": {
+    "analytics": "f6cfabf6-74d9-45fa-9a16-1e8d3414a1ba"
+  }
 }
